@@ -17,9 +17,7 @@
   /* Jumping GIF */
   --jumping-gif: url("https://i.imgur.com/dCd49s0.gif");
 
-  /* Background (if you want an image replace it by : 
-
---background-tertiary-alt: url("image-link"); without that => */
+  --background-tertiary-alt: url("https://cdn.discordapp.com/attachments/686901007523119121/1130618631521316864/gaydragonscommicondone.png");
   --background-tertiary-alt: #ffc7d4;
 
   /* Border-radius for the whole theme */
